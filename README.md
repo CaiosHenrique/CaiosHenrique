@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 <hr>
- My name is Caio Henrique, i'm 17 years old<br> i do an internship on the Randroid Inc, i'm from Sao Paulo-Brazil <br> i do "Desenvolvimento de Sistemas" (System Development) in ETEC Horácio Augusto da Silveira
+ My name is Caio Henrique, i'm 17 years old<br> i do an internship on the Randroid Inc, i'm from Sao Paulo-Brazil <br> and i do "Desenvolvimento de Sistemas" (System Development) in ETEC Horácio Augusto da Silveira
 <hr>
 </div>
 <div align="center">
@@ -32,6 +32,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original-wordmark.svg" width="40" height="40"/>
+          
+          
 </div>    
 
 <a href="https://github.com/CaiosHenrique"/>

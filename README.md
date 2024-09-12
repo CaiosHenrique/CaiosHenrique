@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 <hr>
- My name is Caio Henrique, i'm 18 years old<br> i do an internship on a Full Stack Project, i'm from Sao Paulo-Brazil <br> and i do "Analise e Desenvolvimento de Sistemas" (Analitycs and System Development) in USTJ (Universidade Sao Judas Tadeu) <br>
+ My name is Caio Henrique, i'm 18 years old<br> i do an internship on a Full Stack Project, i'm from Sao Paulo-Brazil <br> and i do "Analise e Desenvolvimento de Sistemas" (Analitycs and System Development) in USJT (Universidade Sao Judas Tadeu) <br>
  and im concluded a Systems development technician in ETEC Horacio Augusto da Silveira
 <hr>
 </div>

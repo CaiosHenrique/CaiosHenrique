@@ -1,45 +1,22 @@
-<div align="center" font face="Georgia">
-<b>Hello! My Name is Caio Henrique :zap:</b>
-</div>
-<hr>
+<h1 align="center">👋 Olá, eu sou o Caio</h1>
+
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
 
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=caioshenrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioshenrique&layout=compact&langs_count=7&theme=dark" />
-</div>
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,html,css,java,dotnet,cs,ruby)](https://skillicons.dev)<br><br>
 
-<br>
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,mongodb,graphql,git,github,azure,bash,cloudflare,docker,fastapi,npm,regex,linux)](https://skillicons.dev)<br><br>
 
-<div align="center">
-<b>About Me :sparkles:</b>
-</div>
-<div align="center">
-<hr>
- My name is Caio Henrique, i'm 18 years old<br> i do an internship on a Full Stack Project, i'm from Sao Paulo-Brazil <br> and i do "Analise e Desenvolvimento de Sistemas" (Analitycs and System Development) in USJT (Universidade Sao Judas Tadeu) <br>
- and im concluded a Systems development technician in ETEC Horacio Augusto da Silveira
-<hr>
-</div>
-<div align="center">
- <b>Knowledge till the moment! :books:</b>
-</div>
-<hr>
+## 📫 Contato
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original-wordmark.svg" width="40" height="40"/>
-          
-          
-</div>    
+[![Gmail Badge](https://img.shields.io/badge/-caiokaikai@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiokaikai@gmail.com)](mailto:caiokaikai@gmail.com)
+[![Linkedin: Caio](https://img.shields.io/badge/-CaiosHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-henrique-27a23a2b5/)](https://www.linkedin.com/in/caio-henrique-27a23a2b5/)
 
-<a href="https://github.com/CaiosHenrique"/>
-          
 
-          
+![CaiosHenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiosHenrique&show_icons=true&theme=radical)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>

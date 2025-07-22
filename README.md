@@ -6,7 +6,7 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=ts,javascript,nodejs,react,html,css,java,dotnet,cs,ruby,pug&perline=7)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=ts,javascript,nodejs,react,html,css,java,dotnet,cs,ruby,pug,python&perline=7)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,mongodb,graphql,git,github,azure,bash,cloudflare,docker,fastapi,npm,regex,linux&perline=8)](https://skillicons.dev)<br><br>

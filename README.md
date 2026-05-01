@@ -60,7 +60,6 @@ My goal in every project is to write code that performs well, scales without fri
 **Mobile**
 
 [![](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
-&nbsp;<sub>React Native</sub>
 
 <br/>
 

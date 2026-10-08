@@ -53,7 +53,7 @@ My goal in every project is to write code that performs well, scales without fri
 
 **Backend**
 
-[![](https://skillicons.dev/icons?i=nodejs,python,dotnet,graphql&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,react,python,dotnet,graphql&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -79,62 +79,7 @@ My goal in every project is to write code that performs well, scales without fri
 
 <br/>
 
-### Featured Projects
 
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Nexus API
-
-A multi-tenant REST API platform with dynamic routing, JWT authentication, and configurable rate limiting per client. Built to support multiple frontend and mobile consumers from a single backend.
-
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
-
-`Reduced avg response time by ~38%` &nbsp;·&nbsp; `99.9% uptime`
-
-</td>
-<td width="50%" valign="top">
-
-#### Orbit Dashboard
-
-Real-time analytics and monitoring dashboard for tracking application metrics, user behavior, and infrastructure health. Built with a GraphQL layer for flexible data querying across services.
-
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=flat-square&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-
-`Live data with sub-300ms render` &nbsp;·&nbsp; `Modular panel system`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### Trackly
-
-Cross-platform mobile application with offline-first data persistence, end-to-end encrypted storage, and automatic sync on reconnect. Core business logic is fully shared between mobile and web, reducing duplication and keeping both platforms in sync.
-
-![React Native](https://img.shields.io/badge/React_Native-111111?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
-
-`iOS + Android from a single codebase` &nbsp;·&nbsp; `Fully functional offline` &nbsp;·&nbsp; `Shared core with web client`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
 
 <br/>
 

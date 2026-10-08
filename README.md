@@ -53,7 +53,7 @@ My goal in every project is to write code that performs well, scales without fri
 
 **Backend**
 
-[![](https://skillicons.dev/icons?i=nodejs,react,python,dotnet,graphql&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,python,dotnet,graphql&theme=dark)](https://skillicons.dev)
 
 <br/>
 
